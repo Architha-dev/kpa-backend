@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "0e9a7796-af65-4573-ba6b-e8e452c23883",
+		"name": "KPA Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46911745",
+		"_collection_link": "https://govindollaarchitha.postman.co/workspace/Govindolla-Architha's-Workspace~942e9d0e-a2a0-4804-85c8-dcad600e75a0/collection/46911745-0e9a7796-af65-4573-ba6b-e8e452c23883?action=share&source=collection_link&creator=46911745"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
